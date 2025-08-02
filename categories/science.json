@@ -1,0 +1,17 @@
+[
+  {"category": "Science", "phrase": "GRAVITY", "hint": "Pulls objects toward the Earth"},
+  {"category": "Science", "phrase": "WATER CYCLE", "hint": "Evaporation, condensation, precipitation"},
+  {"category": "Science", "phrase": "MICROSCOPE", "hint": "Used to look at tiny things"},
+  {"category": "Science", "phrase": "CELL", "hint": "Basic unit of life"},
+  {"category": "Science", "phrase": "ENERGY", "hint": "Required to do work"},
+  {"category": "Science", "phrase": "EVAPORATION", "hint": "Liquid turns into gas"},
+  {"category": "Science", "phrase": "MAGNET", "hint": "Attracts iron"},
+  {"category": "Science", "phrase": "PLANT CELL", "hint": "Cell type found in plants"},
+  {"category": "Science", "phrase": "CHEMISTRY", "hint": "Study of substances"},
+  {"category": "Science", "phrase": "PHYSICS", "hint": "Study of motion and forces"},
+  {"category": "Science", "phrase": "BIOLOGY", "hint": "Study of life"},
+  {"category": "Science", "phrase": "ATOMS", "hint": "Building blocks of matter"},
+  {"category": "Science", "phrase": "MIXTURE", "hint": "Two or more substances combined"},
+  {"category": "Science", "phrase": "EXPERIMENT", "hint": "Scientific test"},
+  {"category": "Science", "phrase": "TEMPERATURE", "hint": "Measure of how hot or cold"}
+]
