@@ -1,0 +1,77 @@
+[
+  {
+    "category": "Food",
+    "phrase": "PIZZA",
+    "hint": "Round and cheesy"
+  },
+  {
+    "category": "Food",
+    "phrase": "CHOCOLATE",
+    "hint": "Sweet and made from cocoa"
+  },
+  {
+    "category": "Food",
+    "phrase": "ICE CREAM",
+    "hint": "Cold and melts quickly"
+  },
+  {
+    "category": "Food",
+    "phrase": "SAMOSA",
+    "hint": "Fried snack with potato filling"
+  },
+  {
+    "category": "Food",
+    "phrase": "BURGER",
+    "hint": "Served with bun and patty"
+  },
+  {
+    "category": "Food",
+    "phrase": "FRIES",
+    "hint": "Crispy potato sticks"
+  },
+  {
+    "category": "Food",
+    "phrase": "MANGO",
+    "hint": "King of fruits"
+  },
+  {
+    "category": "Food",
+    "phrase": "APPLE PIE",
+    "hint": "Sweet dish with fruit and crust"
+  },
+  {
+    "category": "Food",
+    "phrase": "PANI PURI",
+    "hint": "Spicy water-filled snack"
+  },
+  {
+    "category": "Food",
+    "phrase": "CAKE",
+    "hint": "Cut it on birthdays"
+  },
+  {
+    "category": "Food",
+    "phrase": "PASTA",
+    "hint": "Italian food with sauce"
+  },
+  {
+    "category": "Food",
+    "phrase": "NOODLES",
+    "hint": "Long and slurpy"
+  },
+  {
+    "category": "Food",
+    "phrase": "SANDWICH",
+    "hint": "Stuffed between two slices of bread"
+  },
+  {
+    "category": "Food",
+    "phrase": "BANANA",
+    "hint": "Yellow and rich in potassium"
+  },
+  {
+    "category": "Food",
+    "phrase": "BISCUIT",
+    "hint": "Crunchy tea-time snack"
+  }
+]

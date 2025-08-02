@@ -1,0 +1,77 @@
+[
+  {
+    "category": "Math",
+    "phrase": "ADDITION",
+    "hint": "Joining numbers together"
+  },
+  {
+    "category": "Math",
+    "phrase": "SUBTRACTION",
+    "hint": "Taking away"
+  },
+  {
+    "category": "Math",
+    "phrase": "MULTIPLICATION",
+    "hint": "Repeated addition"
+  },
+  {
+    "category": "Math",
+    "phrase": "DIVISION",
+    "hint": "Splitting into equal parts"
+  },
+  {
+    "category": "Math",
+    "phrase": "FRACTIONS",
+    "hint": "Parts of a whole"
+  },
+  {
+    "category": "Math",
+    "phrase": "DECIMALS",
+    "hint": "Numbers with points"
+  },
+  {
+    "category": "Math",
+    "phrase": "GEOMETRY",
+    "hint": "Shapes and angles"
+  },
+  {
+    "category": "Math",
+    "phrase": "SQUARE ROOT",
+    "hint": "Opposite of squaring"
+  },
+  {
+    "category": "Math",
+    "phrase": "PERIMETER",
+    "hint": "Distance around a shape"
+  },
+  {
+    "category": "Math",
+    "phrase": "AREA",
+    "hint": "Space inside a shape"
+  },
+  {
+    "category": "Math",
+    "phrase": "CUBE",
+    "hint": "Three-dimensional square"
+  },
+  {
+    "category": "Math",
+    "phrase": "EQUATION",
+    "hint": "Has an equal sign"
+  },
+  {
+    "category": "Math",
+    "phrase": "NUMBER LINE",
+    "hint": "Used to show numbers in order"
+  },
+  {
+    "category": "Math",
+    "phrase": "PLACE VALUE",
+    "hint": "Position of a digit"
+  },
+  {
+    "category": "Math",
+    "phrase": "MATH TABLES",
+    "hint": "Learn them for multiplication"
+  }
+]
