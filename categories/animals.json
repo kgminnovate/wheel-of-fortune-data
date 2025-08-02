@@ -1,1 +1,17 @@
-
+[
+  {"category": "Animals", "phrase": "ELEPHANT", "hint": "Largest land animal"},
+  {"category": "Animals", "phrase": "LION", "hint": "King of the jungle"},
+  {"category": "Animals", "phrase": "TIGER", "hint": "Striped big cat"},
+  {"category": "Animals", "phrase": "DOLPHIN", "hint": "Smart sea mammal"},
+  {"category": "Animals", "phrase": "KANGAROO", "hint": "Hops and has a pouch"},
+  {"category": "Animals", "phrase": "GIRAFFE", "hint": "Tallest animal"},
+  {"category": "Animals", "phrase": "CROCODILE", "hint": "Big reptile with sharp teeth"},
+  {"category": "Animals", "phrase": "BLUE WHALE", "hint": "Largest animal in the ocean"},
+  {"category": "Animals", "phrase": "ZEBRA", "hint": "Striped animal"},
+  {"category": "Animals", "phrase": "PENGUIN", "hint": "Bird that can't fly but swims"},
+  {"category": "Animals", "phrase": "OSTRICH", "hint": "Largest bird"},
+  {"category": "Animals", "phrase": "PARROT", "hint": "Colorful bird that can talk"},
+  {"category": "Animals", "phrase": "RHINOCEROS", "hint": "Has a big horn"},
+  {"category": "Animals", "phrase": "HIPPOPOTAMUS", "hint": "Big water-loving animal"},
+  {"category": "Animals", "phrase": "BEAR", "hint": "Big furry animal, loves honey"}
+]
