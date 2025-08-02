@@ -1,12 +1,17 @@
 [
-    {
-        "category": "Countries",
-        "phrase": "INDIA",
-        "hint": "I*D*A"
-    },
-    {
-        "category": "Countries",
-        "phrase": "RUSSIA",
-        "hint": "India Alies with"
-    }
+  {"category": "Countries", "phrase": "INDIA", "hint": "Land of diversity"},
+  {"category": "Countries", "phrase": "CANADA", "hint": "Known for maple syrup"},
+  {"category": "Countries", "phrase": "JAPAN", "hint": "Land of the rising sun"},
+  {"category": "Countries", "phrase": "AUSTRALIA", "hint": "Home to kangaroos"},
+  {"category": "Countries", "phrase": "BRAZIL", "hint": "Largest country in South America"},
+  {"category": "Countries", "phrase": "GERMANY", "hint": "Famous for autobahn"},
+  {"category": "Countries", "phrase": "ITALY", "hint": "Shape like a boot"},
+  {"category": "Countries", "phrase": "EGYPT", "hint": "Land of pyramids"},
+  {"category": "Countries", "phrase": "FRANCE", "hint": "Eiffel Tower country"},
+  {"category": "Countries", "phrase": "RUSSIA", "hint": "Largest country in the world"},
+  {"category": "Countries", "phrase": "MEXICO", "hint": "Day of the Dead celebrations"},
+  {"category": "Countries", "phrase": "SOUTH AFRICA", "hint": "Nelson Mandela's country"},
+  {"category": "Countries", "phrase": "UNITED KINGDOM", "hint": "Includes England, Scotland, Wales"},
+  {"category": "Countries", "phrase": "UNITED STATES", "hint": "50 states"},
+  {"category": "Countries", "phrase": "NEW ZEALAND", "hint": "Lord of the Rings filming location"}
 ]
