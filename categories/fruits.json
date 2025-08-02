@@ -1,0 +1,27 @@
+[
+    {
+        "category": "Fruits",
+        "phrase": "APPLE",
+        "hint": "Keeps the doctor away"
+    },
+    {
+        "category": "Fruits",
+        "phrase": "BANANA",
+        "hint": "Yellow and curved"
+    },
+    {
+        "category": "Fruits",
+        "phrase": "ORANGE",
+        "hint": "Both a color and a fruit"
+    },
+    {
+        "category": "Fruits",
+        "phrase": "STRAWBERRY",
+        "hint": "Red with seeds on the outside"
+    },
+    {
+        "category": "Fruits",
+        "phrase": "PINEAPPLE",
+        "hint": "Spiky tropical fruit"
+    }
+]
