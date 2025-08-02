@@ -1,0 +1,17 @@
+[
+  {"category": "Space", "phrase": "ASTRONAUT", "hint": "Person who goes to space"},
+  {"category": "Space", "phrase": "MILKY WAY", "hint": "Our galaxy"},
+  {"category": "Space", "phrase": "MARS", "hint": "Red planet"},
+  {"category": "Space", "phrase": "MOON LANDING", "hint": "Neil Armstrong made history here"},
+  {"category": "Space", "phrase": "BLACK HOLE", "hint": "Swallows everything, even light"},
+  {"category": "Space", "phrase": "SUN", "hint": "Center of our solar system"},
+  {"category": "Space", "phrase": "TELESCOPE", "hint": "Used to see faraway stars"},
+  {"category": "Space", "phrase": "SATELLITE", "hint": "Orbits planets and sends signals"},
+  {"category": "Space", "phrase": "SPACESHIP", "hint": "Vehicle that travels in space"},
+  {"category": "Space", "phrase": "ORBIT", "hint": "Path around a planet or star"},
+  {"category": "Space", "phrase": "GALAXY", "hint": "Collection of billions of stars"},
+  {"category": "Space", "phrase": "EARTH", "hint": "Our home planet"},
+  {"category": "Space", "phrase": "PLUTO", "hint": "Dwarf planet"},
+  {"category": "Space", "phrase": "NEPTUNE", "hint": "Farthest known planet"},
+  {"category": "Space", "phrase": "SPACEX", "hint": "Private space company by Elon Musk"}
+]
