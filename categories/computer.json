@@ -1,0 +1,17 @@
+[
+  {"category": "Computer", "phrase": "KEYBOARD", "hint": "Used to type on a computer"},
+  {"category": "Computer", "phrase": "MOUSE PAD", "hint": "Helps your mouse move smoothly"},
+  {"category": "Computer", "phrase": "MONITOR", "hint": "Displays computer screen"},
+  {"category": "Computer", "phrase": "HARD DISK", "hint": "Stores data on a computer"},
+  {"category": "Computer", "phrase": "CPU", "hint": "Brain of the computer"},
+  {"category": "Computer", "phrase": "PRINTER", "hint": "Prints documents"},
+  {"category": "Computer", "phrase": "PENDRIVE", "hint": "Portable storage device"},
+  {"category": "Computer", "phrase": "SOFTWARE", "hint": "Programs that run on a computer"},
+  {"category": "Computer", "phrase": "HARDWARE", "hint": "Physical parts of a computer"},
+  {"category": "Computer", "phrase": "FOLDER", "hint": "Stores files on a computer"},
+  {"category": "Computer", "phrase": "WEBCAM", "hint": "Used for video calling"},
+  {"category": "Computer", "phrase": "ANTIVIRUS", "hint": "Protects computer from viruses"},
+  {"category": "Computer", "phrase": "EMAIL", "hint": "Used to send digital messages"},
+  {"category": "Computer", "phrase": "INTERNET", "hint": "Connects the world digitally"},
+  {"category": "Computer", "phrase": "GOOGLE", "hint": "Popular search engine"}
+]
