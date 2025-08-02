@@ -1,27 +1,17 @@
 [
-    {
-        "category": "Fruits",
-        "phrase": "APPLE",
-        "hint": "Keeps the doctor away"
-    },
-    {
-        "category": "Fruits",
-        "phrase": "BANANA",
-        "hint": "Yellow and curved"
-    },
-    {
-        "category": "Fruits",
-        "phrase": "ORANGE",
-        "hint": "Both a color and a fruit"
-    },
-    {
-        "category": "Fruits",
-        "phrase": "STRAWBERRY",
-        "hint": "Red with seeds on the outside"
-    },
-    {
-        "category": "Fruits",
-        "phrase": "PINEAPPLE",
-        "hint": "Spiky tropical fruit"
-    }
+  {"category": "Fruits", "phrase": "APPLE", "hint": "Keeps the doctor away"},
+  {"category": "Fruits", "phrase": "BANANA", "hint": "Yellow and curved"},
+  {"category": "Fruits", "phrase": "ORANGE", "hint": "Both a color and a fruit"},
+  {"category": "Fruits", "phrase": "MANGO", "hint": "King of fruits"},
+  {"category": "Fruits", "phrase": "GRAPES", "hint": "Comes in bunches"},
+  {"category": "Fruits", "phrase": "PINEAPPLE", "hint": "Spiky tropical fruit"},
+  {"category": "Fruits", "phrase": "WATERMELON", "hint": "Large and juicy summer fruit"},
+  {"category": "Fruits", "phrase": "STRAWBERRY", "hint": "Red with seeds on the outside"},
+  {"category": "Fruits", "phrase": "PEACH", "hint": "Fuzzy skin"},
+  {"category": "Fruits", "phrase": "PEAR", "hint": "Bell-shaped fruit"},
+  {"category": "Fruits", "phrase": "KIWI", "hint": "Brown fuzzy outside, green inside"},
+  {"category": "Fruits", "phrase": "PAPAYA", "hint": "Tropical fruit with black seeds"},
+  {"category": "Fruits", "phrase": "GUAVA", "hint": "Common in tropical regions"},
+  {"category": "Fruits", "phrase": "CHERRY", "hint": "Small red fruit with pit"},
+  {"category": "Fruits", "phrase": "DRAGON FRUIT", "hint": "Pink skin with white flesh"}
 ]
