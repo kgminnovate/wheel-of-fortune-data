@@ -1,17 +1,187 @@
 [
-  {"category": "Films", "phrase": "BAHUBALI", "hint": "SS Rajamouli's epic"},
-  {"category": "Films", "phrase": "PS", "hint": "Mani Ratnam's recent hit"},
-  {"category": "Films", "phrase": "VADA CHENNAI", "hint": "Dhanush's gangster film"},
-  {"category": "Films", "phrase": "SUPER DELUXE", "hint": "Anthology film with Vijay Sethupathi"},
-  {"category": "Films", "phrase": "KAITHI", "hint": "Karthi's single-night thriller"},
-  {"category": "Films", "phrase": "VIP", "hint": "Dhanush's Velai Illa Pattadhari"},
-  {"category": "Films", "phrase": "MASTER", "hint": "Vijay's 2021 release"},
-  {"category": "Films", "phrase": "ANNIYAN", "hint": "Vikram's multiple personality role"},
-  {"category": "Films", "phrase": "SIVAJI", "hint": "Rajinikanth's Shankar-directed blockbuster"},
-  {"category": "Films", "phrase": "THUPPAKKI", "hint": "Vijay's military thriller"},
-  {"category": "Films", "phrase": "ROJA", "hint": "Mani Ratnam's romantic thriller"},
-  {"category": "Films", "phrase": "MOONDU MB", "hint": "Madhavan's space film"},
-  {"category": "Films", "phrase": "ASURAN", "hint": "Dhanush's rural revenge drama"},
-  {"category": "Films", "phrase": "KARNAN", "hint": "Dhanush's caste-based drama"},
-  {"category": "Films", "phrase": "JAI BHIM", "hint": "Suriya's social justice film"}
+  {
+    "category": "Films",
+    "phrase": "BAHUBALI",
+    "hint": "SS Rajamouli's epic"
+  },
+  {
+    "category": "Films",
+    "phrase": "PS",
+    "hint": "Mani Ratnam's recent hit"
+  },
+  {
+    "category": "Films",
+    "phrase": "VADA CHENNAI",
+    "hint": "Dhanush's gangster film"
+  },
+  {
+    "category": "Films",
+    "phrase": "SUPER DELUXE",
+    "hint": "Anthology film with Vijay Sethupathi"
+  },
+  {
+    "category": "Films",
+    "phrase": "KAITHI",
+    "hint": "Karthi's single-night thriller"
+  },
+  {
+    "category": "Films",
+    "phrase": "VIP",
+    "hint": "Dhanush's Velai Illa Pattadhari"
+  },
+  {
+    "category": "Films",
+    "phrase": "MASTER",
+    "hint": "Vijay's 2021 release"
+  },
+  {
+    "category": "Films",
+    "phrase": "ANNIYAN",
+    "hint": "Vikram's multiple personality role"
+  },
+  {
+    "category": "Films",
+    "phrase": "SIVAJI",
+    "hint": "Rajinikanth's Shankar-directed blockbuster"
+  },
+  {
+    "category": "Films",
+    "phrase": "THUPPAKKI",
+    "hint": "Vijay's military thriller"
+  },
+  {
+    "category": "Films",
+    "phrase": "ROJA",
+    "hint": "Mani Ratnam's romantic thriller"
+  },
+  {
+    "category": "Films",
+    "phrase": "MOONDU MB",
+    "hint": "Madhavan's space film"
+  },
+  {
+    "category": "Films",
+    "phrase": "ASURAN",
+    "hint": "Dhanush's rural revenge drama"
+  },
+  {
+    "category": "Films",
+    "phrase": "KARNAN",
+    "hint": "Dhanush's caste-based drama"
+  },
+  {
+    "category": "Films",
+    "phrase": "JAI BHIM",
+    "hint": "Suriya's social justice film"
+  },
+  {
+    "category": "Films",
+    "phrase": "3 IDIOTS",
+    "hint": "College drama with Aamir Khan"
+  },
+  {
+    "category": "Films",
+    "phrase": "CHENNAI EXPRESS",
+    "hint": "Shah Rukh Khan's train journey"
+  },
+  {
+    "category": "Films",
+    "phrase": "DANGAL",
+    "hint": "Wrestling biopic with Aamir Khan"
+  },
+  {
+    "category": "Films",
+    "phrase": "RATCHASAN",
+    "hint": "Thriller with psycho criminal"
+  },
+  {
+    "category": "Films",
+    "phrase": "MAHANATI",
+    "hint": "Biopic of actress Savitri"
+  },
+  {
+    "category": "Films",
+    "phrase": "DRISHYAM",
+    "hint": "Crime thriller about a family's cover-up"
+  },
+  {
+    "category": "Films",
+    "phrase": "KANCHANA",
+    "hint": "Horror-comedy by Raghava Lawrence"
+  },
+  {
+    "category": "Films",
+    "phrase": "VIKRAM",
+    "hint": "Kamal Haasan's action-packed comeback"
+  },
+  {
+    "category": "Films",
+    "phrase": "RRR",
+    "hint": "Rajamouli's patriotic blockbuster"
+  },
+  {
+    "category": "Films",
+    "phrase": "PUSHPA",
+    "hint": "Allu Arjun's smuggling drama"
+  },
+  {
+    "category": "Films",
+    "phrase": "MERSAL",
+    "hint": "Vijay's triple role thriller"
+  },
+  {
+    "category": "Films",
+    "phrase": "KUMKI",
+    "hint": "Story about an elephant and its mahout"
+  },
+  {
+    "category": "Films",
+    "phrase": "NAYAKAN",
+    "hint": "Kamal Haasan's gangster classic"
+  },
+  {
+    "category": "Films",
+    "phrase": "TUMBBAD",
+    "hint": "Mythological horror film"
+  },
+  {
+    "category": "Films",
+    "phrase": "VEERAM",
+    "hint": "Ajith's rural action drama"
+  },
+  {
+    "category": "Films",
+    "phrase": "VISWASAM",
+    "hint": "Ajith's emotional action film"
+  },
+  {
+    "category": "Films",
+    "phrase": "MAYA",
+    "hint": "Nayanthara's horror thriller"
+  },
+  {
+    "category": "Films",
+    "phrase": "96",
+    "hint": "Romantic tale of school sweethearts"
+  },
+  {
+    "category": "Films",
+    "phrase": "THEGIDI",
+    "hint": "Thriller involving job offers"
+  },
+  {
+    "category": "Films",
+    "phrase": "SURIYAVANSHI",
+    "hint": "Akshay Kumar's cop universe film"
+  },
+  {
+    "category": "Films",
+    "phrase": "KANTARA",
+    "hint": "Rishab Shetty's folklore-based thriller"
+  },
+  {
+    "category": "Films",
+    "phrase": "SATYA",
+    "hint": "Ram Gopal Varma’s Mumbai mafia story"
+  }
 ]
